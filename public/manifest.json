@@ -1,0 +1,12 @@
+{
+  "name": "FocusFlow",
+  "short_name": "FocusFlow",
+  "description": "AI destekli gorev ve odaklanma asistani",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b111e",
+  "theme_color": "#0b111e",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
